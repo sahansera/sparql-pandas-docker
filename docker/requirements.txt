@@ -1,0 +1,9 @@
+SPARQLWrapper
+# pywikibot
+# pymediawiki
+# numpy
+# gensim
+# networkx
+# seaborn
+# matplotlib
+# spacy

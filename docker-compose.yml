@@ -1,0 +1,7 @@
+version: '3'
+services:
+  python-src:
+    build:
+      context: ./docker
+    volumes:
+    - ./scripts:/scripts
